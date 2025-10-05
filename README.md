@@ -20,3 +20,24 @@ Emotion-aware task scheduling powered by AWS Bedrock, RAG, and DynamoDB.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+## Demo
+(https://drive.google.com/file/d/1KQXlgH4PKxn2bZ5pa9G7NLqHzgBtIurH/view?usp=sharing)
+Hackathon
+Built for UCLA x AWS Gen AI Hackathon 2025
+**Upload files**
+
+**On GitHub:**
+- Click "Add file" → "Upload files"
+- Drag: `app.py`, `requirements.txt`, `README.md`, `.gitignore`, `MoodFlow.pdf`
+- **DO NOT upload:** Lambda code (has API keys), any credentials
+
+**Or via command line:**
+```bash
+git clone https://github.com/YOUR_USERNAME/moodflow-ai-scheduler.git
+cd moodflow-ai-scheduler
+cp /path/to/app.py .
+cp /path/to/requirements.txt .
+git add .
+git commit -m "Initial commit"
+git push
