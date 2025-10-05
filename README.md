@@ -39,7 +39,7 @@ API_ENDPOINT = "your-api-gateway-url-here"
 
 ## Demo Video
 
-[Watch the demo](https://drive.google.com/file/d/1KQXlgH4PKxn2bZ5pa9G7NLqHzgBtIurH/view?usp=sharing)
+[Watch the demo](https://drive.google.com/file/d/12ZSG9apXDj1MmSIsy1X6eimYRkP0Udoy/view?usp=sharing)
 
 ## Documentation
 
