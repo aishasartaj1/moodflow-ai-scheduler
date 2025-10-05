@@ -47,7 +47,7 @@ See [MoodFlow.pdf](MoodFlow.pdf) for complete project documentation and architec
 
 ## Hackathon
 
-Built for **UCLA x AWS Gen AI Hackathon 2025**
+Built for **UCLA x AWS Gen AI Hackathon 2025** by Aisha, Saloni, Dhwani
 
 ---
 
