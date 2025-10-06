@@ -118,7 +118,7 @@ For full technical details and system diagrams, see:
 ## 🏆 Hackathon
 
 Built for **UCLA Bruin AI × AWS Gen AI Hackathon 2025**  
-👩‍💻 *Developed by Aisha Sartaj*
+👩‍💻 
 
 ---
 
