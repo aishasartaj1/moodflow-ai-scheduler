@@ -13,8 +13,8 @@ sessions_table = dynamodb.Table('moodflow_sessions')
 schedules_table = dynamodb.Table('moodflow_schedules')
 
 # Constants
-KB_ID = '9EGYZF82ME'
-GUARDRAIL_ID = 'b4gnfb96cc52'
+KB_ID = 'YOUR_KNOWLEDGE_BASE_ID'
+GUARDRAIL_ID = 'YOUR_GUARDRAIL_ID'
 GUARDRAIL_VERSION = 'DRAFT'
 MODEL_ID = 'us.anthropic.claude-3-5-sonnet-20241022-v2:0'
 USER_ID = 'default_user'
@@ -333,4 +333,5 @@ def lambda_handler(event, context):
             'statusCode': 500,
             'headers': {'Access-Control-Allow-Origin': '*'},
             'body': json.dumps({'error': str(e)})
+
         }
