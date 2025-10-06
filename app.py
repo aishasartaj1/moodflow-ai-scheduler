@@ -5,7 +5,7 @@ import uuid
 import pandas as pd
 from datetime import datetime, time
 
-API_ENDPOINT = "https://6tkbdhvf0m.execute-api.us-east-1.amazonaws.com/prod/chat"
+API_ENDPOINT = "YOUR_API_GATEWAY_URL"
 
 st.set_page_config(page_title="MoodFlow", page_icon="🌊", layout="wide")
 
@@ -235,4 +235,5 @@ if st.session_state.unscheduled_tasks:
     st.warning("⚠️ These tasks didn't fit in today's schedule:")
     unscheduled_df = pd.DataFrame(st.session_state.unscheduled_tasks)
     st.dataframe(unscheduled_df, use_container_width=True, hide_index=True)
+
     st.info("💬 Tell me which date you'd like to schedule these for (e.g., 'Schedule documentation for Oct 8')")
