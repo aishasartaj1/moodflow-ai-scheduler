@@ -122,5 +122,5 @@ Built for **UCLA Bruin AI × AWS Gen AI Hackathon 2025**
 
 ---
 
-> ⚠️ **Note:** Lambda source code and AWS credentials are intentionally excluded for security reasons.  
+> ⚠️ **Note:** IDs, API Endpoints, AWS credentials are intentionally excluded for security reasons.  
 > The application requires proper AWS setup with Bedrock, Knowledge Base, and DynamoDB access.
