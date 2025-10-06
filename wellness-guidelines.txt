@@ -1,0 +1,98 @@
+STRESS INDICATORS AND INTERVENTIONS:
+High stress signals: User reports feeling "overwhelmed", multiple competing priorities, tight deadlines, poor sleep mentioned
+
+Recommended interventions:
+- Mandatory 10-minute breaks every 45-60 minutes
+- No consecutive meetings without 15-minute buffer
+- Schedule most difficult work before 12pm when cortisol/willpower highest
+- Include 30-minute lunch break away from workspace
+- Limit total focused work to 6 hours maximum
+- Build in buffer time (stressed people underestimate task duration)
+
+ANXIETY MANAGEMENT IN SCHEDULING:
+Anxiety triggers: Uncertainty, high-stakes outcomes, social performance (presentations/meetings)
+
+Recommended interventions:
+- Schedule anxiety-inducing tasks when energy is highest (typically morning)
+- Provide 30-minute preparation buffer before presentations/important meetings
+- Start day with easy, controllable tasks to build confidence
+- Include grounding breaks (5 minutes every 25-30 minutes)
+- Avoid scheduling multiple high-stakes items in same day
+- Provide recovery time after anxiety-inducing tasks
+
+BURNOUT PREVENTION:
+Warning signs: User mentions exhaustion, multiple long days, weekend work
+
+Recommended interventions:
+- Enforce hard stop times (no work blocks after 6pm)
+- Mandate at least one 60-minute lunch break
+- No more than 4 hours of deep cognitive work per day
+- Schedule administrative/light tasks for afternoon energy dips
+- Suggest postponing non-urgent tasks to following day
+- Build in "slack time" - unscheduled 30-minute buffers
+
+TIREDNESS AND FATIGUE MANAGEMENT:
+Fatigue signals: User reports being "tired", "exhausted", mentions poor sleep, long work hours, late time of day
+
+Recommended interventions:
+- Limit work blocks to 20-30 minutes maximum
+- Increase break frequency to every 30 minutes (15-minute breaks)
+- Defer all complex cognitive tasks to when well-rested
+- Schedule only low-effort administrative tasks
+- Suggest early end time (stop work 2-3 hours earlier than usual)
+- Recommend against important decisions or critical work
+- Include hydration and nutrition reminders
+- If severely tired, recommend postponing entire workday if possible
+- Prioritize rest and recovery over productivity
+
+SADNESS AND LOW MOOD SUPPORT:
+Sadness indicators: User reports feeling "sad", "down", "unmotivated", mentions difficult life events
+
+Recommended interventions:
+- Schedule tasks with clear, achievable outcomes for sense of accomplishment
+- Include collaborative work if possible (avoid isolation)
+- Break work into smaller chunks with visible progress
+- Reduce daily workload expectations by 30-40%
+- Avoid high-pressure deadlines and critical feedback
+- Include longer breaks (15 minutes every 60 minutes)
+- Suggest activities that provide meaning or help others
+- Schedule creative or personally meaningful tasks when possible
+- Build in self-compassion - adjust expectations, celebrate small wins
+- If sadness persists multiple days, gently suggest professional support
+
+POSITIVE MOOD OPTIMIZATION:
+Happy/good mood signals: User reports feeling "great", "energized", "motivated", positive language
+
+Recommended interventions:
+- Leverage positive mood for challenging creative work
+- Schedule collaborative sessions and presentations
+- Good time for learning new skills and tackling complex problems
+- Can handle longer work blocks (90-120 minutes)
+- Excellent for innovation, brainstorming, strategic planning
+- Still maintain adequate breaks to sustain positive mood
+- Don't overload - positive mood can lead to overcommitting
+- Balance challenging work with enjoyable tasks to maintain mood
+
+OPTIMAL WORK PATTERNS:
+Peak cognitive performance: Typically 2-4 hours after waking
+Secondary peak: Mid-to-late morning (10am-12pm)
+Post-lunch dip: 1pm-3pm (schedule lighter cognitive tasks)
+Evening: Declining returns after 6+ hours of work
+
+Cognitive task types by energy level:
+High energy required: Complex problem-solving, learning, strategic decisions
+Medium energy: Code review, testing, documentation, refactoring  
+Low energy: Email, administrative tasks, organizing, planning next day
+
+BREAK OPTIMIZATION:
+Physical movement breaks (every 60-90 min): 5-10 minute walks, stretching
+Visual breaks (every 20-30 min): Look away from screen, focus on distant objects
+Mental breaks (every 90-120 min): Completely different activity, preferably offline
+Meal breaks: Minimum 30 minutes, away from workspace, no work discussion
+
+MOOD-SPECIFIC BREAK RECOMMENDATIONS:
+Tired: Rest-focused breaks, hydration, healthy snacks, brief power naps
+Sad: Comfort activities, social connection (if helpful), activities that bring joy
+Stressed: Physical activity, breathing exercises, nature exposure
+Anxious: Grounding techniques, mindfulness, controlled breathing
+Happy: Social interaction, creative activities, physical movement to maintain energy

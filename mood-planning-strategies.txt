@@ -1,0 +1,67 @@
+STRESSED STATE PLANNING:
+Primary strategy: Modular task breakdown with frequent recovery breaks.
+Task ordering: Easy warmup → Medium difficulty → Hardest task → Easy cooldown (end day on achievable win)
+Time block duration: 30-45 minutes maximum for focused work
+Break frequency: 10-minute breaks every 45 minutes
+Break activities: Walking, stretching, breathing exercises, stepping away from screen
+Avoid: Back-to-back meetings, complex decision-making, learning new tools/frameworks
+Optimize for: Task completion feelings, visible progress, momentum building
+
+ENERGIZED STATE PLANNING:
+Primary strategy: Leverage high energy for most challenging work first.
+Task ordering: Hardest → Medium → Easy (front-load complexity)
+Time block duration: 90-120 minutes for deep work sessions
+Break frequency: 15-minute breaks every 90-120 minutes
+Break activities: Light physical activity to maintain energy
+Optimize for: Complex problem-solving, learning new concepts, creative work
+Best for: Architecture decisions, refactoring, system design, strategic planning
+
+ANXIOUS STATE PLANNING:
+Primary strategy: Build confidence through quick wins and momentum.
+Task ordering: Easy → Easy → Medium → Hard (gradual difficulty increase)
+Time block duration: 25-minute pomodoros (short, focused bursts)
+Break frequency: 5-minute breaks every 25 minutes
+Break activities: Grounding techniques, mindfulness, controlled breathing
+Avoid: High-stakes tasks early, tight deadlines, performance reviews
+Optimize for: Sense of control, predictable outcomes, low-risk tasks
+Include: Extra buffer time (anxiety overestimates task duration)
+
+FOCUSED STATE PLANNING:
+Primary strategy: Maximize flow state opportunities.
+Task ordering: By logical dependency and complexity
+Time block duration: 90-180 minutes for flow activities
+Break frequency: Natural stopping points (don't interrupt flow)
+Optimize for: Deep work, complex problem-solving, learning
+Best for: Algorithm design, deep debugging, technical writing, data analysis
+
+TIRED STATE PLANNING:
+Primary strategy: Minimize cognitive load and prioritize recovery.
+Task ordering: Low-effort tasks only, defer complex work to when rested
+Time block duration: 20-30 minutes maximum for any focused work
+Break frequency: 15-minute breaks every 30 minutes
+Break activities: Rest, hydration, light snacks, brief walks, power naps if possible
+Avoid: Important decisions, complex problem-solving, new learning, critical tasks
+Optimize for: Task completion with minimal effort, administrative work, organizing
+Best for: Email responses, file organization, meeting notes cleanup, planning tomorrow
+Critical: Consider early end time or postponing work to next day when well-rested
+
+SAD STATE PLANNING:
+Primary strategy: Build sense of accomplishment and purpose through achievable tasks.
+Task ordering: Easy → Medium (steady progress, avoid overwhelming challenges)
+Time block duration: 45-60 minutes with clear endpoints
+Break frequency: 10-minute breaks every 45-60 minutes
+Break activities: Activities that provide comfort or joy, social connection if helpful
+Avoid: Isolation, monotonous tasks, high-pressure deadlines, negative feedback loops
+Optimize for: Meaningful progress, tasks with visible outcomes, collaborative work
+Best for: Documentation, helping others, creative work, organizing, completing projects
+Include: Self-compassion - adjust expectations downward, celebrate small wins
+
+HAPPY STATE PLANNING:
+Primary strategy: Channel positive energy into productive and creative work.
+Task ordering: Mix of challenging and enjoyable tasks to maintain positive mood
+Time block duration: 60-90 minutes for engaged work
+Break frequency: 10-15 minute breaks every 60-90 minutes
+Break activities: Social interaction, creative breaks, physical activity
+Optimize for: Creative problem-solving, collaboration, learning new skills
+Best for: Brainstorming, complex projects requiring innovation, team work, presentations
+Leverage: Positive mood enhances cognitive flexibility and creative thinking

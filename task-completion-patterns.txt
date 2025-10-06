@@ -1,0 +1,62 @@
+Dashboard Development Tasks:
+Under stressed mood: Average completion time 3 hours. Works best when split into 45-minute focused sprints with 10-minute breaks. UI/visual work requires less cognitive load than backend logic - schedule UI tasks first when stressed.
+
+When energized: Can handle 2-hour continuous blocks effectively. Backend logic and complex algorithms are best tackled in energized states.
+
+When tired: Avoid entirely or limit to simple UI tweaks only. Completion time doubles due to reduced focus. Defer complex dashboard work to next day.
+
+When sad: Moderate effectiveness. UI work can provide sense of visible accomplishment. Backend logic becomes frustrating. 60-minute blocks work best.
+
+When happy: Excellent time for creative UI design and user experience improvements. Can handle both frontend and backend effectively in 90-minute blocks.
+
+Client Presentations and Meetings:
+High anxiety trigger for most people. Schedule in morning hours when mental energy is highest. Requires 30-minute preparation buffer immediately before. Post-presentation recovery period needed: schedule light cognitive tasks for 30 minutes after.
+
+When tired: Postpone if possible. If must occur, schedule for morning only and limit to 30 minutes. Cognitive performance significantly impaired.
+
+When sad: Can be emotionally draining. Provide 60-minute recovery time after. Consider rescheduling non-critical meetings.
+
+When happy: Optimal state for presentations and client interactions. Positive mood enhances communication and creativity.
+
+Code Review Tasks:
+Best performed when in focused state, not when stressed or anxious. Requires 60-90 minute uninterrupted blocks for thorough review. Mentally draining activity - avoid scheduling back-to-back with other deep work. Detail-oriented work suffers under stress.
+
+When tired: High error rate. Only suitable for superficial reviews of low-criticality code. Defer thorough reviews to when rested.
+
+When sad: Can be performed adequately if not rushed. May be overly critical or miss details. 45-minute blocks recommended.
+
+Writing and Documentation:
+Moderate cognitive load. Can be done effectively in stressed states if broken into sections. 30-45 minute blocks work well. Anxious states may actually improve attention to detail for documentation.
+
+When tired: Simple documentation updates acceptable. Avoid complex technical writing. Limit to 30 minutes.
+
+When sad: Actually therapeutic for some - provides sense of accomplishment. Works well in 60-minute blocks. Focus on completion rather than perfection.
+
+When happy: Excellent for creative documentation, tutorials, and explanatory content. Quality and clarity improve.
+
+Creative Brainstorming:
+Best in energized or focused states. Stress and anxiety inhibit creative thinking. Schedule for times when mood is positive. Works well in 60-90 minute blocks.
+
+When tired: Severely impaired creativity. Reschedule to when well-rested.
+
+When sad: Reduced but not absent. Can work if collaborative and supportive environment provided.
+
+When happy: Peak performance. Leverage for innovation sessions, product ideation, problem-solving workshops.
+
+Bug Fixing and Debugging:
+Frustrating under stressed conditions - can amplify negative mood. Better scheduled when energized or focused. Requires patience and systematic thinking. 45-60 minute blocks with breaks prevent frustration buildup.
+
+When tired: High frustration, low success rate. Simple bugs only, complex debugging should be postponed.
+
+When sad: Frustration amplified. Can lead to negative spirals. Limit to 30-minute blocks with clear stopping points.
+
+When happy: Good systematic thinking and patience. Effective for complex debugging in 90-minute blocks.
+
+Administrative Tasks (Email, Scheduling, Organization):
+Low cognitive load. Suitable for most mood states.
+
+When tired: Ideal tasks. Can maintain productivity without high mental demand. 20-30 minute blocks.
+
+When sad: Provides sense of control and accomplishment. Good for maintaining momentum.
+
+When happy: Can be done efficiently but may feel understimulating. Mix with more engaging work.
