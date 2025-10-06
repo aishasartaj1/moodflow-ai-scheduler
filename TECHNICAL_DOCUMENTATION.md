@@ -224,7 +224,7 @@ Retrieved chunks:
 
 ### 6. RAG Orchestration: Bedrock Knowledge Base
 
-**Knowledge Base ID:** `9EGYZF82ME`
+**Knowledge Base ID:** `YOUR_KNOWLEDGE_BASE_ID`
 
 **Configuration:**
 - Data source: S3 bucket
@@ -343,7 +343,7 @@ OUTPUT JSON:
 
 ### 8. Safety Layer: Bedrock Guardrails
 
-**Guardrail ID:** `b4gnfb96cc52`
+**Guardrail ID:** `YOUR_GUARDRAIL_ID`
 
 **Version:** DRAFT
 
@@ -445,7 +445,7 @@ Enhanced message:
 
 **Step 3: HTTP POST (Streamlit → API Gateway)**
 ```http
-POST https://6tkbdhvf0m.execute-api.us-east-1.amazonaws.com/prod/chat
+POST YOUR_API_GATEWAY_URL
 
 {
   "message": "I'm tired, need to write documentation for 2 hours\n\n[Planning for Wednesday, October 06, 2025 | Start: 9:00 AM | End by: 5:00 PM]"
@@ -545,7 +545,7 @@ OUTPUT JSON:
 ```python
 response = bedrock_runtime.invoke_model(
     modelId="us.anthropic.claude-3-5-sonnet-20241022-v2:0",
-    guardrailIdentifier="b4gnfb96cc52",
+    guardrailIdentifier="YOUR_GUARDRAIL_ID",
     guardrailVersion="DRAFT",
     body=json.dumps({
         "anthropic_version": "bedrock-2023-05-31",
