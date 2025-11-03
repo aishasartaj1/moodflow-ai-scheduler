@@ -101,7 +101,7 @@ API_ENDPOINT = "your-api-gateway-url-here"
 ## 📄 Documentation
 
 For full technical details and system diagrams, see:  
-📘 [MoodFlow.pdf](MoodFlow.pdf)
+📘 [MoodFlow.pdf](TECHNICAL_DOCUMENTATION.md)
 
 ---
 
