@@ -117,7 +117,7 @@ For full technical details and system diagrams, see:
 
 ## 🏆 Hackathon
 
-Built for **UCLA Bruin AI × AWS Gen AI Hackathon 2025**. Update: Won 'Overall Best' Solution in Hackathon!
+Built for **UCLA Bruin AI × AWS Gen AI Hackathon 2025**. Update: Won **'Overall Best'** Solution in Hackathon!
 👩‍💻 
 
 ---
